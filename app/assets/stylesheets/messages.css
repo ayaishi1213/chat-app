@@ -75,7 +75,7 @@
   background-color: #FAFAFA;
   height: calc(100vh - 100px - 90px);
   padding: 46px 40px 0;
-  overflow: scroll
+  overflow: scroll;
 }
 
 .message {
@@ -143,7 +143,7 @@
   color: white;
   padding: 12px;
   width: 60px;
-  margin: 5px 10px
+  margin: 5px 10px;
   text-align: center;
 }
 
